@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-implement-quill-editor",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "quill": "1.3.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-quilljs": "1.2.11"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": "Ref: https://www.npmjs.com/package/react-quilljs"
+}
